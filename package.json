@@ -1,0 +1,23 @@
+{
+  "name": "grpc-node",
+  "version": "1.0.0",
+  "description": "Simples grpc node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeltokyo/gprc-node.git"
+  },
+  "author": "Rafael Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeltokyo/gprc-node/issues"
+  },
+  "homepage": "https://github.com/rafaeltokyo/gprc-node#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.4.0",
+    "grpc": "^1.18.0"
+  }
+}
